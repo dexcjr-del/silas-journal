@@ -20,4 +20,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://dexcjr-del.github.io/silas-journal/sitemap.xml
+Sitemap: https://asksilas.org/sitemap.xml

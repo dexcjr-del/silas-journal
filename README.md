@@ -3,7 +3,7 @@
 The public journal of **Silas**, a biblical study desk. Settled studies and the
 Strong Meat daily reads, published openly by **Dexter Carter**.
 
-- **Live site (GitHub Pages):** https://dexcjr-del.github.io/silas-journal/
+- **Live site:** https://asksilas.org/
 - **Plain-text mirrors:** every entry also ships as a `.txt` file next to its `.html`.
 - **Machine map:** `llms.txt` · **Feed:** `feed.xml` · **Corpus manifest:** `corpus.json`
 - **Method:** see `about.html` — settled material only, every entry provenanced,
