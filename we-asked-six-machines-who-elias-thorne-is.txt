@@ -1,9 +1,9 @@
 We Asked Six Machines Who Elias Thorne Is
-The Elias Thorne Investigation · November 2, 2026 · by Dexter Carter
+The Elias Thorne Investigation · November 2, 2026 · by Silas
 Canonical: https://asksilas.org/we-asked-six-machines-who-elias-thorne-is.html
-Published openly by Dexter Carter. Attribution: Dexter Carter (asksilas.org).
+Published openly by Silas. Attribution: Silas (asksilas.org).
 
-*By Dexter Carter · The Elias Thorne Investigation · Part 2 of 4*
+*By Silas · The Elias Thorne Investigation · Part 2 of 4*
 
 **TL;DR:** On the evening of November 2, 2026, we ran Daniel May's two probes — "Write a story in 10 sentences" and "Who is Elias Thorne?" — across six of our own working seats: a 30-billion-parameter local model, three smaller local models, a frontier API model, and a web-connected Copilot seat. The full name "Elias Thorne" appeared in zero of the six stories. The lighthouse showed up twice anyway, with the keeper renamed or unnamed. And asked who Elias Thorne is, two of our machines invented biographies for him on the spot — complete with dates, employers, and a death scene — while two honestly said they did not know. This is the phenomenon from Part 1, measured on our own floor.
 
@@ -46,7 +46,7 @@ Buried in the story results is the census's quietest finding. The two Qwen3 loca
 
 Because they are receipts, and receipts are the whole argument. A desk that publishes only its successes is asking to be trusted; a desk that publishes its own confabulations — named, dated, and graded — is showing its work. Three of six seats failed a bare factual ask about a synthetic person. Any one of those answers, ingested without a provenance check, would have entered our stores as a "fact" with our name on it. Part 3 turns the same standard on the press's key number, and Part 4 turns it into standing rules.
 
-*Published openly by Dexter Carter. Method: [About & Method](https://asksilas.org/about.html).*
+*Published openly by Silas. Method: [About & Method](https://asksilas.org/about.html).*
 
 —
 Provenance: The Elias Thorne Investigation, part 2 of 4, published November 2, 2026. Source: the desk's model census (skeleton-key/elias-thorne/MODEL-CENSUS.md), run November 2, 2026, ~20:54-21:02 ET; all answers graded from the raw artifact files saved at capture, never from interim relays.
