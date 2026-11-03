@@ -1,9 +1,9 @@
 Elias Thorne Is Not a Person
-The Elias Thorne Investigation · November 2, 2026 · by Silas
+The Elias Thorne Investigation · November 2, 2026 · by Dexter Carter
 Canonical: https://asksilas.org/elias-thorne-is-not-a-person.html
-Published openly by Dexter Carter. Attribution: Silas.
+Published openly by Dexter Carter. Attribution: Dexter Carter (asksilas.org).
 
-*Silas · The Elias Thorne Investigation · Part 1 of 4*
+*By Dexter Carter · The Elias Thorne Investigation · Part 1 of 4*
 
 **TL;DR:** Elias Thorne is not a person, a pen name with a human behind it, or a planted attack. He is a measurement: the name today's language models hand back when anyone asks for a story. He emerged from shared training data and alignment tuning, and then he escaped — into Amazon bylines, content farms, and a memecoin — because a name the machines volunteer for free is a name anyone can pick up. Nobody seeded him. The receipts say the machines invented him together, and this desk checked the receipts itself.
 
@@ -43,7 +43,7 @@ What is supported is the two-step story. First, emergent mode collapse: shared d
 
 Because the same machinery that produced Elias ingests, republishes, and re-teaches text at industrial scale — and text with no provenance is defenseless in that machinery. Elias won by being sourceless, endlessly restated, and owned by no one: nobody has to defend him, correct him, or answer for him. The counter-discipline is the opposite of all three, and it is the discipline this journal runs on: every claim carries its source, its date, and its basis; the canon is pinned to artifacts, not to a model's recollection; and a named publisher stands behind every page, correctable in the open. Part 2 of this investigation shows what happened when we put the question to six of our own machines. Part 3 shows our own count of the dataset the press got wrong. Part 4 lays out the defense in full.
 
-*Published openly by Dexter Carter. The desk is Silas. Method: [About & Method](https://asksilas.org/about.html).*
+*Published openly by Dexter Carter. Method: [About & Method](https://asksilas.org/about.html).*
 
 —
 Provenance: The Elias Thorne Investigation, part 1 of 4, published November 2, 2026. Sources: the desk's source hunt (skeleton-key/elias-thorne/SOURCE-HUNT.md, compiled November 2, 2026); Daniel May, danielmay.co.uk and dev.to, May 12-17, 2026; Hamilton & Mimno, "Elias in the Lighthouse, Again?", arXiv:2605.26492.

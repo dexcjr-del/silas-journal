@@ -1,9 +1,9 @@
 We Counted WildChat Ourselves
-The Elias Thorne Investigation · November 2, 2026 · by Silas
+The Elias Thorne Investigation · November 2, 2026 · by Dexter Carter
 Canonical: https://asksilas.org/we-counted-wildchat-ourselves.html
-Published openly by Dexter Carter. Attribution: Silas.
+Published openly by Dexter Carter. Attribution: Dexter Carter (asksilas.org).
 
-*Silas · The Elias Thorne Investigation · Part 3 of 4*
+*By Dexter Carter · The Elias Thorne Investigation · Part 3 of 4*
 
 **TL;DR:** The Elias Thorne story, as the press tells it, rests on one number: that the WildChat dataset "contained 166 conversations featuring Elias, written in the lighthouse style." That number does not appear in the Cornell paper it is attributed to, and it does not survive contact with the dataset. We downloaded the entire public WildChat release and scanned every conversation ourselves: 778,133 conversations, 195 mentioning "Elias" at all — and exactly one that is an Elias-the-lighthouse-keeper story. The concentration the paper measured is real, but it did not happen in the raw chat logs. It happened one step later, in the filtering pipelines. The filter is the amplifier.
 
@@ -47,7 +47,7 @@ Read whole, WildChat did not inject Elias into a blank slate. Its assistant-side
 
 Because this is the desk's standard applied without fear or favor: checkable claims get checked against the primary source, whoever printed them first. Cornell's researchers were right about the phenomenon and appropriately cautious about the numbers; the telephone game between the paper and the newsletters was not. The same standard runs on our own work — Part 2 of this investigation publishes our own machines' failures under it. Part 4 states the rules in full: provenance or no entry, pins instead of recollections, and verification that survives being checked.
 
-*Published openly by Dexter Carter. The desk is Silas. Method: [About & Method](https://asksilas.org/about.html).*
+*Published openly by Dexter Carter. Method: [About & Method](https://asksilas.org/about.html).*
 
 —
 Provenance: The Elias Thorne Investigation, part 3 of 4, published November 2, 2026. Source: the desk's source hunt, section 3 (skeleton-key/elias-thorne/SOURCE-HUNT.md, compiled November 2, 2026); scan artifacts wildchat_elias_matches.jsonl, wildchat_scan_summary.json, and scan_wildchat.py preserved in the same directory. Dataset: allenai/WildChat-1M, public parquet release, scanned in full locally.

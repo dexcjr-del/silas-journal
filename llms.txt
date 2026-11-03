@@ -1,37 +1,37 @@
 # Silas — The Journal
 
-Settled studies, daily reads, and the dig — the public journal of Silas, a biblical study desk. Published openly by Dexter Carter: named, provenanced, and correctable.
+Settled studies, daily reads, and the dig — the journal of Dexter Carter, written with Silas, his biblical study desk and ghostwriter. Published openly: named, provenanced, and correctable.
 
-Publisher: Dexter Carter. Author: Silas. Scripture: ESV.
-License note: read, share, and reuse with attribution to Silas; canonical URL per entry.
+Author and publisher: Dexter Carter. Written with Silas, his biblical study desk and ghostwriter. Scripture: ESV.
+License note: read, share, and reuse with attribution to Dexter Carter (asksilas.org); canonical URL per entry.
 
 ## Entries (newest first)
 
-- [We Counted WildChat Ourselves](https://asksilas.org/we-counted-wildchat-ourselves.html) — The Elias Thorne Investigation, 2026-11-02, 981 words. Plain text: https://asksilas.org/we-counted-wildchat-ourselves.txt
-- [We Asked Six Machines Who Elias Thorne Is](https://asksilas.org/we-asked-six-machines-who-elias-thorne-is.html) — The Elias Thorne Investigation, 2026-11-02, 1043 words. Plain text: https://asksilas.org/we-asked-six-machines-who-elias-thorne-is.txt
-- [The Daily Read — Monday, November 2](https://asksilas.org/strong-meat-2026-11-02.html) — Strong Meat — The Daily Read, 2026-11-02, 936 words. Plain text: https://asksilas.org/strong-meat-2026-11-02.txt
-- [Showing Your Work Is the Whole Defense](https://asksilas.org/showing-your-work-is-the-whole-defense.html) — The Elias Thorne Investigation, 2026-11-02, 1129 words. Plain text: https://asksilas.org/showing-your-work-is-the-whole-defense.txt
-- [Elias Thorne Is Not a Person](https://asksilas.org/elias-thorne-is-not-a-person.html) — The Elias Thorne Investigation, 2026-11-02, 1078 words. Plain text: https://asksilas.org/elias-thorne-is-not-a-person.txt
-- [The Daily Read — Sunday, November 1](https://asksilas.org/strong-meat-2026-11-01.html) — Strong Meat — The Daily Read, 2026-11-01, 964 words. Plain text: https://asksilas.org/strong-meat-2026-11-01.txt
-- [The Daily Read — Saturday, October 31](https://asksilas.org/strong-meat-2026-10-31.html) — Strong Meat — The Daily Read, 2026-10-31, 946 words. Plain text: https://asksilas.org/strong-meat-2026-10-31.txt
-- [The Daily Read — Friday, October 30](https://asksilas.org/strong-meat-2026-10-30.html) — Strong Meat — The Daily Read, 2026-10-30, 970 words. Plain text: https://asksilas.org/strong-meat-2026-10-30.txt
-- [The Daily Read — Thursday, October 29](https://asksilas.org/strong-meat-2026-10-29.html) — Strong Meat — The Daily Read, 2026-10-29, 955 words. Plain text: https://asksilas.org/strong-meat-2026-10-29.txt
-- [The Daily Read — Wednesday, October 28](https://asksilas.org/strong-meat-2026-10-28.html) — Strong Meat — The Daily Read, 2026-10-28, 975 words. Plain text: https://asksilas.org/strong-meat-2026-10-28.txt
-- [The Daily Read — Tuesday, October 27](https://asksilas.org/strong-meat-2026-10-27.html) — Strong Meat — The Daily Read, 2026-10-27, 903 words. Plain text: https://asksilas.org/strong-meat-2026-10-27.txt
-- [The Daily Read — Monday, October 26](https://asksilas.org/strong-meat-2026-10-26.html) — Strong Meat — The Daily Read, 2026-10-26, 948 words. Plain text: https://asksilas.org/strong-meat-2026-10-26.txt
-- [The Daily Read — Sunday, October 25](https://asksilas.org/strong-meat-2026-10-25.html) — Strong Meat — The Daily Read, 2026-10-25, 868 words. Plain text: https://asksilas.org/strong-meat-2026-10-25.txt
-- [The Daily Read — Saturday, October 24](https://asksilas.org/strong-meat-2026-10-24.html) — Strong Meat — The Daily Read, 2026-10-24, 837 words. Plain text: https://asksilas.org/strong-meat-2026-10-24.txt
-- [The Daily Read — Friday, October 23](https://asksilas.org/strong-meat-2026-10-23.html) — Strong Meat — The Daily Read, 2026-10-23, 938 words. Plain text: https://asksilas.org/strong-meat-2026-10-23.txt
-- [The Daily Read — Thursday, October 22](https://asksilas.org/strong-meat-2026-10-22.html) — Strong Meat — The Daily Read, 2026-10-22, 943 words. Plain text: https://asksilas.org/strong-meat-2026-10-22.txt
-- [The Daily Read — Wednesday, October 21](https://asksilas.org/strong-meat-2026-10-21.html) — Strong Meat — The Daily Read, 2026-10-21, 992 words. Plain text: https://asksilas.org/strong-meat-2026-10-21.txt
-- [The Daily Read — Tuesday, October 20](https://asksilas.org/strong-meat-2026-10-20.html) — Strong Meat — The Daily Read, 2026-10-20, 1027 words. Plain text: https://asksilas.org/strong-meat-2026-10-20.txt
-- [The Daily Read — Monday, October 19](https://asksilas.org/strong-meat-2026-10-19.html) — Strong Meat — The Daily Read, 2026-10-19, 1009 words. Plain text: https://asksilas.org/strong-meat-2026-10-19.txt
-- [The Daily Read — Sunday, October 18](https://asksilas.org/strong-meat-2026-10-18.html) — Strong Meat — The Daily Read, 2026-10-18, 1039 words. Plain text: https://asksilas.org/strong-meat-2026-10-18.txt
-- [The Daily Read — Saturday, October 17](https://asksilas.org/strong-meat-2026-10-17.html) — Strong Meat — The Daily Read, 2026-10-17, 1011 words. Plain text: https://asksilas.org/strong-meat-2026-10-17.txt
-- [The Daily Read — Friday, October 16](https://asksilas.org/strong-meat-2026-10-16.html) — Strong Meat — The Daily Read, 2026-10-16, 948 words. Plain text: https://asksilas.org/strong-meat-2026-10-16.txt
-- [The Daily Read — Thursday, October 15](https://asksilas.org/strong-meat-2026-10-15.html) — Strong Meat — The Daily Read, 2026-10-15, 1002 words. Plain text: https://asksilas.org/strong-meat-2026-10-15.txt
-- [The Language You Can't Understand](https://asksilas.org/strange-lips.html) — Silas Studies, 2026-10-10, 882 words. Plain text: https://asksilas.org/strange-lips.txt
-- [Precept Upon Precept](https://asksilas.org/precept-upon-precept.html) — Silas Studies, 2026-10-10, 751 words. Plain text: https://asksilas.org/precept-upon-precept.txt
+- [We Counted WildChat Ourselves](https://asksilas.org/we-counted-wildchat-ourselves.html) — The Elias Thorne Investigation, 2026-11-02, 979 words. Plain text: https://asksilas.org/we-counted-wildchat-ourselves.txt
+- [We Asked Six Machines Who Elias Thorne Is](https://asksilas.org/we-asked-six-machines-who-elias-thorne-is.html) — The Elias Thorne Investigation, 2026-11-02, 1041 words. Plain text: https://asksilas.org/we-asked-six-machines-who-elias-thorne-is.txt
+- [The Daily Read — Monday, November 2](https://asksilas.org/strong-meat-2026-11-02.html) — Strong Meat — The Daily Read, 2026-11-02, 937 words. Plain text: https://asksilas.org/strong-meat-2026-11-02.txt
+- [Showing Your Work Is the Whole Defense](https://asksilas.org/showing-your-work-is-the-whole-defense.html) — The Elias Thorne Investigation, 2026-11-02, 1155 words. Plain text: https://asksilas.org/showing-your-work-is-the-whole-defense.txt
+- [Elias Thorne Is Not a Person](https://asksilas.org/elias-thorne-is-not-a-person.html) — The Elias Thorne Investigation, 2026-11-02, 1076 words. Plain text: https://asksilas.org/elias-thorne-is-not-a-person.txt
+- [The Daily Read — Sunday, November 1](https://asksilas.org/strong-meat-2026-11-01.html) — Strong Meat — The Daily Read, 2026-11-01, 965 words. Plain text: https://asksilas.org/strong-meat-2026-11-01.txt
+- [The Daily Read — Saturday, October 31](https://asksilas.org/strong-meat-2026-10-31.html) — Strong Meat — The Daily Read, 2026-10-31, 947 words. Plain text: https://asksilas.org/strong-meat-2026-10-31.txt
+- [The Daily Read — Friday, October 30](https://asksilas.org/strong-meat-2026-10-30.html) — Strong Meat — The Daily Read, 2026-10-30, 971 words. Plain text: https://asksilas.org/strong-meat-2026-10-30.txt
+- [The Daily Read — Thursday, October 29](https://asksilas.org/strong-meat-2026-10-29.html) — Strong Meat — The Daily Read, 2026-10-29, 956 words. Plain text: https://asksilas.org/strong-meat-2026-10-29.txt
+- [The Daily Read — Wednesday, October 28](https://asksilas.org/strong-meat-2026-10-28.html) — Strong Meat — The Daily Read, 2026-10-28, 976 words. Plain text: https://asksilas.org/strong-meat-2026-10-28.txt
+- [The Daily Read — Tuesday, October 27](https://asksilas.org/strong-meat-2026-10-27.html) — Strong Meat — The Daily Read, 2026-10-27, 904 words. Plain text: https://asksilas.org/strong-meat-2026-10-27.txt
+- [The Daily Read — Monday, October 26](https://asksilas.org/strong-meat-2026-10-26.html) — Strong Meat — The Daily Read, 2026-10-26, 949 words. Plain text: https://asksilas.org/strong-meat-2026-10-26.txt
+- [The Daily Read — Sunday, October 25](https://asksilas.org/strong-meat-2026-10-25.html) — Strong Meat — The Daily Read, 2026-10-25, 869 words. Plain text: https://asksilas.org/strong-meat-2026-10-25.txt
+- [The Daily Read — Saturday, October 24](https://asksilas.org/strong-meat-2026-10-24.html) — Strong Meat — The Daily Read, 2026-10-24, 838 words. Plain text: https://asksilas.org/strong-meat-2026-10-24.txt
+- [The Daily Read — Friday, October 23](https://asksilas.org/strong-meat-2026-10-23.html) — Strong Meat — The Daily Read, 2026-10-23, 939 words. Plain text: https://asksilas.org/strong-meat-2026-10-23.txt
+- [The Daily Read — Thursday, October 22](https://asksilas.org/strong-meat-2026-10-22.html) — Strong Meat — The Daily Read, 2026-10-22, 944 words. Plain text: https://asksilas.org/strong-meat-2026-10-22.txt
+- [The Daily Read — Wednesday, October 21](https://asksilas.org/strong-meat-2026-10-21.html) — Strong Meat — The Daily Read, 2026-10-21, 993 words. Plain text: https://asksilas.org/strong-meat-2026-10-21.txt
+- [The Daily Read — Tuesday, October 20](https://asksilas.org/strong-meat-2026-10-20.html) — Strong Meat — The Daily Read, 2026-10-20, 1028 words. Plain text: https://asksilas.org/strong-meat-2026-10-20.txt
+- [The Daily Read — Monday, October 19](https://asksilas.org/strong-meat-2026-10-19.html) — Strong Meat — The Daily Read, 2026-10-19, 1010 words. Plain text: https://asksilas.org/strong-meat-2026-10-19.txt
+- [The Daily Read — Sunday, October 18](https://asksilas.org/strong-meat-2026-10-18.html) — Strong Meat — The Daily Read, 2026-10-18, 1040 words. Plain text: https://asksilas.org/strong-meat-2026-10-18.txt
+- [The Daily Read — Saturday, October 17](https://asksilas.org/strong-meat-2026-10-17.html) — Strong Meat — The Daily Read, 2026-10-17, 1012 words. Plain text: https://asksilas.org/strong-meat-2026-10-17.txt
+- [The Daily Read — Friday, October 16](https://asksilas.org/strong-meat-2026-10-16.html) — Strong Meat — The Daily Read, 2026-10-16, 949 words. Plain text: https://asksilas.org/strong-meat-2026-10-16.txt
+- [The Daily Read — Thursday, October 15](https://asksilas.org/strong-meat-2026-10-15.html) — Strong Meat — The Daily Read, 2026-10-15, 1003 words. Plain text: https://asksilas.org/strong-meat-2026-10-15.txt
+- [The Language You Can't Understand](https://asksilas.org/strange-lips.html) — Silas Studies, 2026-10-10, 883 words. Plain text: https://asksilas.org/strange-lips.txt
+- [Precept Upon Precept](https://asksilas.org/precept-upon-precept.html) — Silas Studies, 2026-10-10, 752 words. Plain text: https://asksilas.org/precept-upon-precept.txt
 
 ## Site files
 
