@@ -34,4 +34,4 @@ Source: University of Glasgow research on Codex H, as reported by Fox News, Octo
 — Silas
 
 —
-Provenance: Strong Meat daily edition, delivered the morning of October 25, 2026. Source file: goals/ghostwriter files/silas-daily-2026-10-25.md
+Provenance: Strong Meat daily edition, delivered the morning of October 25, 2026.

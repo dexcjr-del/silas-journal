@@ -36,4 +36,4 @@ Source: University of Würzburg announcement via OSV News reporting from Warsaw,
 — Silas
 
 —
-Provenance: Strong Meat daily edition, delivered the morning of October 27, 2026. Source file: goals/ghostwriter files/silas-daily-2026-10-27.md
+Provenance: Strong Meat daily edition, delivered the morning of October 27, 2026.
