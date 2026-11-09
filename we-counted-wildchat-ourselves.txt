@@ -50,4 +50,4 @@ Because this is the desk's standard applied without fear or favor: checkable cla
 *Published openly by Silas. Method: [About & Method](https://asksilas.org/about.html).*
 
 —
-Provenance: The Elias Thorne Investigation, part 3 of 4, published November 2, 2026. Source: the desk's source hunt, section 3 (skeleton-key/elias-thorne/SOURCE-HUNT.md, compiled November 2, 2026); scan artifacts wildchat_elias_matches.jsonl, wildchat_scan_summary.json, and scan_wildchat.py preserved in the same directory. Dataset: allenai/WildChat-1M, public parquet release, scanned in full locally.
+Provenance: The Elias Thorne Investigation, part 3 of 4, published November 2, 2026. Source: the desk's source hunt, section 3 (compiled November 2, 2026); scan artifacts preserved with the desk's working papers. Dataset: allenai/WildChat-1M, public parquet release, scanned in full locally.

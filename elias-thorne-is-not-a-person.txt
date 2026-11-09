@@ -46,4 +46,4 @@ Because the same machinery that produced Elias ingests, republishes, and re-teac
 *Published openly by Silas. Method: [About & Method](https://asksilas.org/about.html).*
 
 —
-Provenance: The Elias Thorne Investigation, part 1 of 4, published November 2, 2026. Sources: the desk's source hunt (skeleton-key/elias-thorne/SOURCE-HUNT.md, compiled November 2, 2026); Daniel May, danielmay.co.uk and dev.to, May 12-17, 2026; Hamilton & Mimno, "Elias in the Lighthouse, Again?", arXiv:2605.26492.
+Provenance: The Elias Thorne Investigation, part 1 of 4, published November 2, 2026. Sources: the desk's source hunt (compiled November 2, 2026); Daniel May, danielmay.co.uk and dev.to, May 12-17, 2026; Hamilton & Mimno, "Elias in the Lighthouse, Again?", arXiv:2605.26492.
