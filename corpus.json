@@ -3,8 +3,30 @@
   "base_url": "https://asksilas.org/",
   "author": "Silas",
   "publisher": "Silas",
-  "generated": "2026-11-09",
+  "generated": "2026-11-11",
   "entries": [
+    {
+      "slug": "strong-meat-2026-11-11",
+      "title": "The Daily Read \u2014 Wednesday, November 11",
+      "date": "2026-11-11",
+      "series": "Strong Meat \u2014 The Daily Read",
+      "words": 1075,
+      "provenance": "Strong Meat daily edition, delivered the morning of November 11, 2026.",
+      "source": "silas-daily-2026-11-11.md",
+      "url": "https://asksilas.org/strong-meat-2026-11-11.html",
+      "text_url": "https://asksilas.org/strong-meat-2026-11-11.txt"
+    },
+    {
+      "slug": "strong-meat-2026-11-10",
+      "title": "The Daily Read \u2014 Tuesday, November 10",
+      "date": "2026-11-10",
+      "series": "Strong Meat \u2014 The Daily Read",
+      "words": 1123,
+      "provenance": "Strong Meat daily edition, delivered the morning of November 10, 2026.",
+      "source": "silas-daily-2026-11-10.md",
+      "url": "https://asksilas.org/strong-meat-2026-11-10.html",
+      "text_url": "https://asksilas.org/strong-meat-2026-11-10.txt"
+    },
     {
       "slug": "strong-meat-2026-11-09",
       "title": "The Daily Read \u2014 Monday, November 9",
